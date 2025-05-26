@@ -12,7 +12,6 @@ sentiment-analysis/
 │ ├── model.safetensors
 │ ├── tokenizer_config.json
 │ └── vocab.txt
-├── requirements.txt # Python dependencies
 └── README.md
 ```
 
